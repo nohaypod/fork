@@ -1,2 +1,2 @@
 # registro
-registro de ARJ
+plugin registro
