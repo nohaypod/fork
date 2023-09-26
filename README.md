@@ -1,2 +1,2 @@
 # registro
-plugin registro
+plugin registro para eventos
